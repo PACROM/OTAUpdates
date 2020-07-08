@@ -22,7 +22,7 @@
     android:sharedUserId="android.uid.system" >
 
     <uses-sdk
-        android:maxSdkVersion="22"
+        android:maxSdkVersion="29"
         android:minSdkVersion="14"
         android:targetSdkVersion="22" />
 
